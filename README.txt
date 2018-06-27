@@ -1,3 +1,5 @@
+Program that shows how algorithm of finding articulation points in graph works
+
 V - total amount of vertices (MAX=20)
 X in 1..V:
     VX VPi (i in 0..(V-1)) - number of vertice and list of vertices, that make pair to VX \\New Line
